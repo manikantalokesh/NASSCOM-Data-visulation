@@ -1,1 +1,1 @@
-# 20191COM0035_NASSCOM_ASSIGNMENT
+ ## I am going to use supervised data and simple linear regression for analysis and prediction. The Ultimate goal is the predict the company whether it has to focus on application or website development using the trained model to the highest achievable accuracy using available data
